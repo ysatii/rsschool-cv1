@@ -1,4 +1,5 @@
 # Yuri Melnik
+![my Avatar](Avatar.jpg "Аватар")
 # My Contact Info
 * Address: Moscow, Russia
 * Phone: on request

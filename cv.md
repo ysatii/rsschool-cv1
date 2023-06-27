@@ -4,7 +4,7 @@
 * Phone: on request
 * E-mail: yrik.m@mail.ru
 * Telegram: @Hdbvfhhx
-## Summary
+# Summary
 I am currently working as a part time IT engineer for DEVOPS. I have skills in administering servers based
  on the Linux operating system, doing programming in python. 
  I constantly improve my knowledge in the IT field so that, from time to time,

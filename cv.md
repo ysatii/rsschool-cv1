@@ -15,6 +15,8 @@ I am currently working as a part time IT engineer for DEVOPS. I have skills in a
 * Version control: Git (remote service GitHub).
 * Windows OS, Linux(Ubuntu)
 * Figma()
+* Python
+    + FastApi FrameWork
 # Code examples 
 # Education
 * MIREA (Technical University)

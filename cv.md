@@ -5,6 +5,7 @@
 * Phone: on request
 * E-mail: yrik.m@mail.ru
 * Telegram: @Hdbvfhhx
+  
 # Summary
 I am currently working as a part time IT engineer for DEVOPS. I have skills in administering servers based
  on the Linux operating system, doing programming in python. 
@@ -17,6 +18,7 @@ I am currently working as a part time IT engineer for DEVOPS. I have skills in a
 * Figma()
 * Python
     + FastApi FrameWork
+
 # Code examples 
 # Education
 * MIREA (Technical University)
@@ -30,4 +32,5 @@ I am currently working as a part time IT engineer for DEVOPS. I have skills in a
     + Marketing and Optimization of web sites on the Internet
     + Mysql 5 database server
     + Design and design in the AutoCAD system (Training center "A.F. Konto" NOU)
+  
 

@@ -25,8 +25,8 @@ I am currently working as a part time IT engineer for DEVOPS. I have skills in a
 ## Code examples
 
 **Bit Counting from CODEWARS**: Write a function that takes an integer as input, and returns the number of bits that are equal to one in the binary representation of that number. You can guarantee that input is non-negative.
-```
-var countBits = function(n) {
+
+```var countBits = function(n) {
   if (n == 0) {
      return 0
   } else {
@@ -35,6 +35,7 @@ var countBits = function(n) {
   }
 };
 ```
+
 ## Education
 
 * MIREA (Technical University)

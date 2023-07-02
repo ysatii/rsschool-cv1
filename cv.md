@@ -50,4 +50,3 @@ var countBits = function(n) {
   * Marketing and Optimization of web sites on the Internet
   * Mysql 5 database server
   * Design and design in the AutoCAD system (Training center "A.F. Konto" NOU)
-  * 

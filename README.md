@@ -1,1 +1,1 @@
-[Skillbox Media](https://skillbox.ru/media/  "Всплывающая подсказка") с подсказкой
+[https://skillbox.ru/media/](https://ysatii.github.io/rsschool-cv/cv "Резюме")
